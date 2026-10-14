@@ -1,5 +1,9 @@
 # Modeling an Artificial Dorsal Stream for Event-Based Vision
 ![fk](https://github.com/user-attachments/assets/fd8fca1d-96bb-4e37-933b-cef65bd0c37d)
+
+We are pleased to share that this work has been published at ICML.
+
+
 ##  Highlights
 • We propose an event stream processing framework inspired by the brain’s dorsal visual pathway. We introduce the spatial-temporal information encoding mechanism of the brain’s dorsal pathway, also known as the ”where” pathway, into the event stream data processing framework, effectively establishing a high-order mapping fromevent streams to event frames.
 
