@@ -2,7 +2,7 @@
 
 ![fk](https://github.com/user-attachments/assets/fd8fca1d-96bb-4e37-933b-cef65bd0c37d)
 
-We are pleased to share that this work has been published at ICML. A substantially expanded version is currently under review at IEEE TPAMI. Stay tuned for good news!
+We are pleased to share that this work has been published at **ICML (CCF A)**. A substantially expanded version is currently under review at **IEEE TPAMI (CCF A)**. Stay tuned for good news!
 
 
 ##  Highlights
