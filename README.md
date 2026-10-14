@@ -1,4 +1,6 @@
 # Modeling an Artificial Dorsal Stream for Event-Based Vision
+Modeling an Artificial Dorsal Stream for Event-Based Vision
+
 ![fk](https://github.com/user-attachments/assets/fd8fca1d-96bb-4e37-933b-cef65bd0c37d)
 
 We are pleased to share that this work has been published at ICML.
